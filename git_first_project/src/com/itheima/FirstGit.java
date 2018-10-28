@@ -17,5 +17,6 @@ public class FirstGit {
         i=i+1;
         System.out.println(i);
         System.out.println("修改过的");
+        System.out.println("nihao de ");
     }
 }
